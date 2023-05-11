@@ -11,4 +11,3 @@ npm i axios pretty cheerio
 # Usage
 node app.js
 
-# web_scrapping_nodeJS
